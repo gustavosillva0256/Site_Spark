@@ -1,2 +1,2 @@
 # Site_Spark
-site da spark com acesso de login
+Modelo de site institucional criado para empresa Spark a partir de um modelo pré-existente.
